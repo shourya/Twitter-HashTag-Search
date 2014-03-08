@@ -87,8 +87,6 @@
                 {
                 die('Error: ' . mysqli_error($db_connection));
                 }; 
-               
-                   }
                    
                
                    
