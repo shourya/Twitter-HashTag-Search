@@ -1,13 +1,13 @@
 HASH TAG SEARCH for twitter
  
  /**
- * HASH TAG SEARCH for twitter : Simple PHP script to search and store twittes with #<search_key>
+ * HASH TAG SEARCH for twitter : Simple PHP script to search and store twittes with #search_key
  * PHP version 5.3.10
- * @author   Shourya Sohaney <shourya.sohaney@gmail.com>
+ * @author   Shourya Sohaney shourya.sohaney@gmail.com
  */
 
 ============================================================================================
-Simple PHP script to search and store twittes with #<search_key>
+Simple PHP script to search and store twittes with #search_key
 
 follow these simple steps:
 1.have index.php and TwitterAPIExchange.php in same folder
